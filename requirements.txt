@@ -1,8 +1,11 @@
 jupytext
 torchtyping
 hypothesis
-torch==1.10
+torch == 1.10
 numpy
 pytest
+pychalk
+matplotlib
 notebookjs
 jupyter
+colour
